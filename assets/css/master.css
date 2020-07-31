@@ -51,12 +51,9 @@ p{
   width: 80%;
   padding: 80px;
 }
-
-.fonts0{
-  font-size: 0px;
-}
-.fonts0 p{
-  font-size: 18px;
+.top{
+  text-align: center;
+  
 }
 
 /* public tags */
@@ -66,4 +63,10 @@ p{
 /* text */
 .subtitle{
   text-decoration-color: #999;
+}
+.fonts0{
+  font-size: 0px;
+}
+.fonts0 p{
+  font-size: 18px;
 }
